@@ -1,0 +1,47 @@
+	{
+		"Scenarios": [
+			
+					{
+						"Name": "Q.1",
+						"Scale": 1,
+						"Angle": 3,
+						"Info": ""
+					},
+					{
+						"Name": "Q.2",
+						"Scale": 3,
+						"Angle": 6,
+						"Info": ""
+					},
+					{
+						"Name": "Q.3",
+						"Scale": 5,
+						"Angle": 8,
+						"Info": ""
+					},
+					{
+						"Name": "Q.4",
+						"Scale": 7,
+						"Angle": 1,
+						"Info": ""
+					},
+					{
+						"Name": "Q.5",
+						"Scale": 9,
+						"Angle": 3,
+						"Info": ""
+					},
+					{
+						"Name": "Q.6",
+						"Scale":10,
+						"Angle": 7,
+						"Info": ""
+					},
+					{
+						"Name": "Q.7",
+						"Scale": 11,
+						"Angle": 4,
+						"Info": ""
+					}
+				]
+	}
